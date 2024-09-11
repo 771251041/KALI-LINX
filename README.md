@@ -1,4 +1,5 @@
-
+محمد عبد الجليل علي الذبحاني.  // 
+امن سيبراني مجموعه (1) سنه ثانيه
 1. **Display the current working directory:**
    
 ```bash
